@@ -2,6 +2,10 @@
   <div id="app" class="font-bold">
     <puttu-banner />
     <my-story />
+    <audio controls autoplay>
+      <source src="@/assets/audio/Puttu-samjhawan.mp3" type="audio/mpeg" />
+      Your browser does not support the audio element.
+    </audio>
   </div>
 </template>
 
@@ -14,6 +18,9 @@ export default {
   components: {
     PuttuBanner,
     MyStory,
+  },
+  data() {
+    return {};
   },
 };
 </script>

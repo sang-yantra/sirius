@@ -6,8 +6,8 @@
     <div class="banner__contents ml-7 pt-36 h-48">
       <h1 class="banner__title text-3xl font-extrabold pb-1">Puttu Pai</h1>
       <h2 class="banner__description pt-2 text-sm max-w-sm">
-        Puttu Pai or Bharthi Pai, my love, incomparable elegant beauty, simpler
-        than water, as pure as snow, as innocent as a new-born babe
+        Puttu Pai or Bharthi Pai, incomparable elegant beauty, simpler than
+        water, as pure as snow, as innocent as a new-born babe
       </h2>
     </div>
     <div class="banner__fadebottom h-16 rounded-xl"></div>
